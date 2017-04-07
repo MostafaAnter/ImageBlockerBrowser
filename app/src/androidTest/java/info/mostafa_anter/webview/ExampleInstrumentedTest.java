@@ -1,4 +1,4 @@
-package info.androidhive.webview;
+package info.mostafa_anter.webview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package info.androidhive.webview;
+package info.mostafa_anter.webview;
 
 import org.junit.Test;
 
